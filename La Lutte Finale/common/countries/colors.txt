@@ -1,0 +1,33 @@
+
+GER = {
+	color = rgb { 77  93  83 }
+	color_ui = rgb { 17  23  19 }
+}
+SPR = {
+	color = rgb { 237  101  59 }
+	color_ui = rgb { 126  27  10 }
+}
+FRA = {
+	color = rgb { 191 31 0 }
+	color_ui = rgb { 143 14 0 }
+}
+MEX = {
+	color = rgb { 191 197 118 }
+	color_ui = rgb { 85 90 36 }
+}
+MRF = {
+	color = rgb { 125 150 117 }
+	color_ui = rgb { 40 55 35 }
+}
+RHI = {
+	color = rgb { 123 63 0 }
+	color_ui = rgb { 39 12 0 }
+}
+USA = {
+	color = rgb { 80 107 134 }
+	color_ui = rgb { 10 4 40 }
+}
+FUM = {
+	color = rgb { 85 127 125 }
+	color_ui = rgb { 20 41 40 }
+}

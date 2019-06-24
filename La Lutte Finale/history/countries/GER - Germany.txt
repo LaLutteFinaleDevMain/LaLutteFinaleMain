@@ -1,0 +1,90 @@
+1924.1.1 = {
+	capital = 
+	
+	oob = "GER_1924"
+	
+	if = {
+			limit= { has_dlc = "Man The Guns"}
+					set_naval_oob = "GER_1924_naval_mtg"
+			else = {
+				set_naval_oob = "GER_1924_naval_legacy"
+			}
+	}
+	set_research_slots = 4
+	
+	set_stability = 0.23
+	
+	set_war_support = 0.41
+	
+	#need to add ideas
+	add_ideas = {
+					#ideas
+					
+					#laws
+					total_mobilization
+					service_by_requirement
+	}
+	set_technology = {
+##########################################
+#### Fill With Content ############
+##########################################
+	}
+	
+	
+	
+	
+	
+	
+	
+	#Political leaders(1924)
+	
+	
+	
+	#Generals(1924)
+	create_corps_commander = {
+	name = "Ernst Thalmann"
+	picture = "Portrait_GER_General_Ernst_Thalmann.dds"
+	traits = { trickster trait_reckless war_hero infantry_officer media_personality Sparakusbund}
+	skill = 5
+	id = 1
+	attack_skill = 5
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+	}
+	create_corps_commander = {
+	name = "Rosa Luxemburg"
+	picture = "Portrait_GER_General_Rosa_Luxemburg.dds"
+	traits = { media_personality politically_connected Spartakusbund}
+	skill = 3
+	id = 2
+	attack_skill = 3
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+	}
+	#work on traits
+	create_corps_commander = {
+	name = "Georg Ledebour"
+	picture = "Portrait_GER_General_Georg_Ledebour.dds"
+	traits = { media_personality politically_connected Links_SDP}
+	skill = 2
+	id = 3
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 1
+	logistics_skill = 2
+	}
+	#work on all
+	create_corps_commander = {
+	name = "Tony Sender"
+	picture = "Portrait_GER_General_Tony_Sender.dds"
+	traits = { media_personality politically_connected Rechts_SDP}
+	skill = 2
+	id = 3
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 1
+	logistics_skill = 2
+	}
+}

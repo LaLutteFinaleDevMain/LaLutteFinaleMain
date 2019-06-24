@@ -1,0 +1,8 @@
+GER = "countries/Germany.txt"
+SPR = "countries/Spartakusaufstand.txt"
+MEX = "countries/Mexico.txt"
+MLF = "countries/Mexican National Front.txt"
+USA = "countries/USA.txt"
+RHI = "countries/Rhineland.txt"
+FRA = "countries/France.txt"
+FUM = "countries/Fiume.txt"

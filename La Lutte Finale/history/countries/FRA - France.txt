@@ -1,0 +1,20 @@
+1924.1.1 = {
+	capital = 
+	
+	oob = "FRA_1924"
+	
+	
+	set_research_slots = 4
+	
+	
+	
+	
+	
+	
+	#Political leaders(1924)
+	
+	
+	
+	#Generals(1924)
+	
+}

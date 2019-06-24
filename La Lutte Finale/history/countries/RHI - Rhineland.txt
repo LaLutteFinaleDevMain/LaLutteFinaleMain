@@ -1,0 +1,30 @@
+1924.1.1 = {
+	capital = 
+	
+	oob = "RHI_1924"
+	
+	
+	set_research_slots = 3
+	
+	
+	
+	
+	
+	
+	#Political leaders(1924)
+	
+	
+	
+	#Generals(1924)
+	create_corps_commander = {
+	name = "Gustav Landauer"
+	picture = "Portrait_RHI_General_Gustav_Landauer.dds"
+	traits = { trickster trait_reckless war_hero infantry_officer media_personality Spartakusbund }
+	skill = 5
+	id = 1
+	attack_skill = 5
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+	}
+}

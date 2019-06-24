@@ -1,0 +1,8 @@
+Key things for portraits:
+ - File format: .dds
+ - Name format:
+		Portrait_TAG_Leader_FirstName_LastName.dds
+						OR
+		Portrait_TAG_General_FirstName_LastName.dds
+ - Size: 156x210
+ - Background: Use the one provided in the folder for now, however, whenever possible, set the background as a separate layer to make replacing it easier
